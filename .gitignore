@@ -100,3 +100,4 @@ package.json
 
 # Custom
 .DS_Store
+build/
